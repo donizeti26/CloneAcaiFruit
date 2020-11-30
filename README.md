@@ -1,4 +1,4 @@
-[](../images/brand.png))
+[](../images/brand.png)
 <h1 align="center">CloneAcaiFruit</h1>
 <p align="center"> Clone do site [Açai Fruit](https://www.acaifruitshow.com.br/)</p>
 
