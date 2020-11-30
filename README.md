@@ -1,4 +1,6 @@
-<img align="center" src="https://github.com/donizeti26/CloneAcaiFruit/blob/main/images/brand.png" alt="">
+<p  align="center">
+<img src="https://github.com/donizeti26/CloneAcaiFruit/blob/main/images/brand.png" alt="">
+</p>
 <h1 align="center">CloneAcaiFruit</h1>
 <p align="center"> Clone do site <a href="https://www.acaifruitshow.com.br">Açai Fruit<a></p>
 
