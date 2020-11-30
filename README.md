@@ -1,1 +1,1 @@
-# CloneAcaiFruit|:smile:
+# CloneAcaiFruit:smile:
