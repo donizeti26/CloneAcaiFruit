@@ -2,12 +2,14 @@
 <h1 align="center">CloneAcaiFruit</h1>
 <p align="center"> Clone do site <a href="https://www.acaifruitshow.com.br">Açai Fruit<a></p>
 
-<h4 align="center"> 
+<h2 align="center"> 
 	🚧  Clone do Site 🚀 Em construção...  🚧
-</h4>
+</h2>
 
-<img src="https://img.shields.io/static/v1?label=Blog&message=Instagram&color=E4405Fc1&style=for-the-badge&logo=Instagram"/>
-
+<a href="https://www.instagram.com/dotnet_freela/"><img src="https://img.shields.io/static/v1?label=Blog&message=Instagram&color=E4405F&style=for-the-badge&logo=Instagram"/></a>
+<a href="www.linkedin.com/in/donizeti-silva-a666b31b0
+"><img src="https://img.shields.io/static/v1?label=Blog&message=LinkedIn&color=0077B5&style=for-the-badge&logo=LinkedIn"/>
+</a>
 ## Stack escolhidas 
 - HTML 5
 - CSS
