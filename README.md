@@ -1,13 +1,17 @@
-[] (../images/brand.png)
-# CloneAcaiFruit:smile:
-Clone do site [Açai Fruit](https://www.acaifruitshow.com.br/)
+[] (https://www.acaifruitshow.com.br/)
+<h1 align="center">CloneAcaiFruit</h1>
+<p align="center"> Clone do site [Açai Fruit](https://www.acaifruitshow.com.br/)</p>
+
+<h4 align="center"> 
+	🚧  Clone do Site 🚀 Em construção...  🚧
+</h4>
 
 ## Stack escolhidas 
 - HTML 5
 - CSS
 - Bootstrap
 - JavaScript
-## Ferramenta
+## Ferramentas
 - Visual Studio Code
 
 ##  Partes (views) do Projeto
