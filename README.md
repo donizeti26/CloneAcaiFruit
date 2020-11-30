@@ -1,4 +1,4 @@
-[] (https://www.acaifruitshow.com.br/)
+[] (https://aeroshakegbi.com.br/wp-content/uploads/2020/04/download.png)
 <h1 align="center">CloneAcaiFruit</h1>
 <p align="center"> Clone do site [Açai Fruit](https://www.acaifruitshow.com.br/)</p>
 
